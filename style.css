@@ -1,0 +1,17 @@
+*{
+    background-color: orange;
+   
+}
+.an
+{
+    /* border: 2px solid black;
+    color: chartreuse; */
+    background-color: white;
+}
+.leading-relaxed
+{
+    color: black;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 25px;
+}
